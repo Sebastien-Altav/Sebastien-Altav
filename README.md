@@ -1,16 +1,20 @@
-## Hi there 👋
+# Sebastien Altamirano
 
-<!--
-**Sebastien-Altav/Sebastien-Altav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Cybersecurity Analyst with a background in network defense and hands-on experience deploying and securing enterprise network infrastructure. Experienced with firewall configuration, network traffic analysis, and vulnerability scanning using tools such as Nmap, Wireshark, Burp Suite, and Kali Linux.
 
-Here are some ideas to get you started:
+## Interests
+- Security Operations (SOC)
+- Network Defense
+- Offensive Security Fundamentals
+- Threat Detection & Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Hack The Box labs
+- Building a documented cybersecurity lab portfolio
+- Advancing toward offensive security
+
+## Tools
+- Nmap, Wireshark, Burp Suite
+- Kali Linux
+- Fortinet Firewalls
+- Virtual Machines (VirtualBox / VMware)
